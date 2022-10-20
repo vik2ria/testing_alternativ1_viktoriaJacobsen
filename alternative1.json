@@ -1,0 +1,82 @@
+{"questions": [
+    {
+      "title": "Hvor høy er en voksen giraff",
+      "answers": [
+        { "answere": "Ca 3 - 4 meter" },
+        {
+          "answere": "Ca 9 - 10 meter"
+        },
+        {
+          "answere": "ca 11 - 12 meter"
+        },
+        {
+          "answere": "Ca 4 - 6 meter",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Er hann- og hundyr ca like store?"
+      }
+    },
+
+    {
+        "title": "Hvilket bær er Sena Sengana",
+        "answers": [
+          { "answere": "Blåbær" },
+          {
+            "answere": "Jordbær",
+            "correct": true
+          },
+          {
+            "answere": "Bringebær"
+          },
+          {
+            "answere": "Ripsbær"
+          }
+        ],
+        "helper": {
+          "text": "Et rødt bær"
+        }
+      },
+
+      {
+        "title": "Hva er det minste landet i verden?",
+        "answers": [
+          { "answere": "Vatikanet",
+          "correct": true },
+          {
+            "answere": "Monaco"
+          },
+          {
+            "answere": "San Marino"
+          },
+          {
+            "answere": "Liechtenstein"
+          }
+        ],
+        "helper": {
+          "text": "Grenser kun til ett annet land"
+        }
+      },
+
+      {
+        "title": "Hvor mange taster har et klassisk piano",
+        "answers": [
+          { "answere": "102" },
+          {
+            "answere": "63"
+          },
+          {
+            "answere": "88",
+            "correct": true
+          },
+          {
+            "answere": "75"
+          }
+        ],
+        "helper": {
+          "text": "Det er et partall tall"
+        }
+      }
+  ]
+}
