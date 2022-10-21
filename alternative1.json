@@ -1,81 +1,81 @@
 {"questions": [
     {
-      "title": "Hvor høy er en voksen giraff",
+      "title": "Hvem bruker ikke jest i sine applikasjoner",
       "answers": [
-        { "answere": "Ca 3 - 4 meter" },
+        { "answere": "Instagram" },
         {
-          "answere": "Ca 9 - 10 meter"
+          "answere": "facebook"
         },
         {
-          "answere": "ca 11 - 12 meter"
+          "answere": "spotify"
         },
         {
-          "answere": "Ca 4 - 6 meter",
+          "answere": "Skole prosjekter levert av en student",
           "correct": true
         }
       ],
       "helper": {
-        "text": "Er hann- og hundyr ca like store?"
+        "text": "Stort eller liten"
       }
     },
 
     {
-        "title": "Hvilket bær er Sena Sengana",
+        "title": "Hvilken exception er ikke en exception",
         "answers": [
-          { "answere": "Blåbær" },
+          { "answere": "toBe" },
           {
-            "answere": "Jordbær",
+            "answere": "toBeOrNotToBe",
             "correct": true
           },
           {
-            "answere": "Bringebær"
+            "answere": "toBeCloseTo"
           },
           {
-            "answere": "Ripsbær"
+            "answere": "toMatchSnapshot"
           }
         ],
         "helper": {
-          "text": "Et rødt bær"
+          "text": "Kjent utsagn"
         }
       },
 
       {
-        "title": "Hva er det minste landet i verden?",
+        "title": "Må man configurere noe for å teste code coverage?",
         "answers": [
-          { "answere": "Vatikanet",
+          { "answere": "Bare å lege til flaget --coverage",
           "correct": true },
           {
-            "answere": "Monaco"
+            "answere": "JA du må ha en rekke med filer og kode"
           },
           {
-            "answere": "San Marino"
+            "answere": "Ja man må ha en egen module"
           },
           {
-            "answere": "Liechtenstein"
+            "answere": "nei, den gjør det automagisk"
           }
         ],
         "helper": {
-          "text": "Grenser kun til ett annet land"
+          "text": "Krever noe, men svært lite"
         }
       },
 
       {
-        "title": "Hvor mange taster har et klassisk piano",
+        "title": "Kan tester i jest kjøre parallelt?",
         "answers": [
-          { "answere": "102" },
+          { "answere": "ja, men dette reduserer effektivitet" },
           {
-            "answere": "63"
+            "answere": "nei"
           },
           {
-            "answere": "88",
+            "answere": "ja og dette øker effektivitet",
             "correct": true
           },
           {
-            "answere": "75"
+            "answere": "Nei, men det er ikke et behov heller"
           }
         ],
         "helper": {
-          "text": "Det er et partall tall"
+          "text": "Ja det gjør kanskje det?"
         }
       }
   ]
